@@ -1,0 +1,1 @@
+Home Assistant üzerinden MTQQ Protokolünü dinleyterek son depremleri ekranınızda dashboardınızda görüntüleyebilirsiniz.
